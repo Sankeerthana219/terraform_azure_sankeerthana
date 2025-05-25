@@ -4,6 +4,6 @@ public-subnet       = ["10.5.1.0/24"]
 private-subnet      = ["10.5.2.0/24"]
 subscription_id     = "c8838de8-c272-4b54-8bc1-78d5ce588b72"
 client_id           = "22a98179-4ca5-44a1-86a1-425c89062337"
-object_id           = "80b04e46-3cc8-4379-ac61-d3b0fea32ca4"
+object_id           = "28d72e15-90ab-4ecb-8d57-552ae2e27568"
 client_secret       = "Mse8Q~faOfrIAE2B_~z5ST0wBn~nx_9FCbUaVcc3"
 tenant_id           = "8623896e-72f5-443b-af9f-ab9d065f7c0b"
